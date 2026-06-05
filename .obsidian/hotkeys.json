@@ -31,5 +31,13 @@
       ],
       "key": "Numpad3"
     }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "+"
+    }
   ]
 }
