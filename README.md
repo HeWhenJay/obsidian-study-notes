@@ -4,6 +4,12 @@
 
 如果你正在找系统化的 AI Agent 学习笔记、RAG 优化笔记、LangChain 实战笔记、GraphRAG 原理和实践记录，这个仓库可以作为学习路线、复习资料和项目实践参考。
 
+## 配套检索项目
+
+这个笔记库也是 [GraphRag-Personal-Repository](https://github.com/sheng143998/GraphRag-Personal-Repository) 的个人知识库来源。该项目会围绕这些 Obsidian 学习笔记做本地知识库问答、RAG/GraphRAG 检索、引用展示、评估和智能体编排练习。
+
+如果你想直接检索、提问或验证这些笔记的 RAG 效果，可以查看配套搜索项目；如果你想阅读原始知识内容、复习学习路线和查看双链结构，可以从本仓库开始。
+
 ## 适合谁
 
 - 正在入门大模型应用开发，希望从 Prompt、RAG、Agent 工程逐步建立知识体系的人。
