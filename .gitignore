@@ -1,3 +1,25 @@
 .trash/
 .obsidian/workspace*.json
 .obsidian/cache/
+.obsidian/graph.json
+
+# 本地运行、缓存和敏感配置
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*.pyc
+__pycache__/
+.venv/
+venv/
+node_modules/
+
+# 个人项目过程记录，可能包含测试密钥哨兵或临时上下文
+项目使用记录/
+
+# 大模型/RAG 运行生成物
+cache/
+output/
+logs/
