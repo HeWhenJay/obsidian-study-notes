@@ -10,6 +10,12 @@
 
 如果你想直接检索、提问或验证这些笔记的 RAG 效果，可以查看配套搜索项目；如果你想阅读原始知识内容、复习学习路线和查看双链结构，可以从本仓库开始。
 
+## 关联实践项目
+
+这些笔记也关联到大学生职业规划项目：[sheng143998/AI-University-Student-Career-Planning](https://github.com/sheng143998/AI-University-Student-Career-Planning)。
+
+该项目使用本笔记库中的 AI Agent、RAG、FastAPI 和工程化部署知识，完成 AI/RAG 能力从 Java 侧迁移到 Python FastAPI 服务，并在顶层 README 中维护业务总流程图、AI 子流程图和失败场景说明。与该项目直接相关的沉淀记录位于 `项目使用记录/AI-University-Student-Career-Planning/`。
+
 ## 适合谁
 
 - 正在入门大模型应用开发，希望从 Prompt、RAG、Agent 工程逐步建立知识体系的人。
